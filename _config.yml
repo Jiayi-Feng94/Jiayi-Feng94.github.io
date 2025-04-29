@@ -22,18 +22,18 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/selfie.png"
+  avatar           : "selfie.png"
   name             : "Jiayi Feng （冯家宜）"
   pronouns         : # example: "she/her"  
-  bio              : "MD and PhD of Plastic Surgery
-  associate researcher 
-  attending physician"
+  bio              : "MD and PhD of Plastic Surgery"
+  "associate researcher" 
+  "attending physician"
   location         : "China, Guangdong, Shenzhen"
   employer         : "Shenzhen Hospital of Southern Medical University"
-  email            : "drfengjy@163.com" 
+  email:drfengjy@163.com            : "drfengjy@163.com" 
 
   # Academic websites
-  orcid            : "https://orcid.org/0000-0003-4888-8347"
+  orcid:0000-0003-4888-8347            : "https://orcid.org/0000-0003-4888-8347"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
