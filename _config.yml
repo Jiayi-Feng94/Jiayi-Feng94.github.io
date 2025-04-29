@@ -23,13 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiayi Feng （冯家宜）"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "MD and PhD of Plastic Surgery
+  associate researcher 
+  attending physician"
+  location         : "China, Guangdong, Shenzhen"
+  employer         : "Shenzhen Hospital of Southern Medical University"
+  email            : "drfengjy@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
